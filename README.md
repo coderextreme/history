@@ -55,10 +55,14 @@ Applications
 	Houdini
 	Wonderland, Open Wonderland
 	Unity
+	Ogre
+	Quake
 	Unreal
 	Acrobat
 	Flash
 	Flux
+	Photoshop
+	Illustrator
 Companies
 	Alias
 	Wavefront
