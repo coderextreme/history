@@ -114,6 +114,7 @@ Standards
 		JogAmp
 		EAI
 		SAI/X3DJSAIL/X3DPSAIL
+		D3.js
 	Formats
 		GIF
 		JPEG
