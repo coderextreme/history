@@ -2,6 +2,8 @@ Videos:
 	https://www.youtube.com/watch?v=Rk5dw4qcFUg
 	https://www.youtube.com/watch?v=NXkkr0REEPI
 	https://www.youtube.com/watch?v=QyjyWUrHsFc
+
+	https://en.wikipedia.org/wiki/Timeline_of_computer_animation_in_film_and_television
 Mouse
 HMD
 AR
@@ -75,6 +77,7 @@ Companies
 Technologies
 	Hidden Surface Processing
 	Ray Tracing
+		https://en.wikipedia.org/wiki/Ray_tracing_(graphics)
 	Radiosity
 	Global Illumination
 	Quadtrees/Octrees
